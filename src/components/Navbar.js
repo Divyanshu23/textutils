@@ -36,8 +36,7 @@ export default function Navbar(props) {
           </div>
           <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
             <div className="flex flex-shrink-0 items-center">
-              <img className="block h-8 w-auto lg:hidden" src="./public/favicon-96x96" alt="Your Company" />
-              <img className="hidden h-8 w-auto lg:block" src="./public/favicon-96x96" alt="Your Company" />
+              <img className="block h-8 w-auto lg:hidden" src="/public/favicon-96x96.png" alt="Text Utils logo" />
             </div>
             <div className="hidden sm:ml-6 sm:block">
               <div className="flex space-x-4">
